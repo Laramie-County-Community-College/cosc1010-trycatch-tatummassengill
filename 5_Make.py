@@ -10,7 +10,7 @@ This code was made to  be interactive.
 '''
 def steps_to_miles(steps):
     if steps < 0:
-        raise ValueError ("Exception: Negative step count entered.")
+        raise ValueError ("Exception: Negative step count entered.") 
     return steps / 2000
 
 def main():
