@@ -1,5 +1,9 @@
 
 ''' 
+Tatum Massengill
+Exceptions Homework
+
+
 This code defines the steps_to_miles() function that converts steps to miles (2000 steps= 1 mile) and raises an errorvalue if input is negative. 
 The main() function reads user input, converts it to miles using previous function and prints result with 2 decimal places if successful and gives error message if number is negative.
 This code was made to  be interactive.
